@@ -11,7 +11,7 @@
 
 I have a degree in Computer Science🎓, a programmer 👨‍💻, and I'm passionate about web development. I'm always looking to learn new things to expand and develop my skills📚.
 
-🌿 Every day is an opportunity to be better.
+✍️ Every day is an opportunity to be better.
 </br>
 🚀 I am looking to collaborate on open source projects or learn new things.
 </br>
@@ -88,8 +88,8 @@ I have a degree in Computer Science🎓, a programmer 👨‍💻, and I'm passi
 
 [![Website](https://img.shields.io/badge/Website-bcsoftw-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://bcsoftw.github.io/)
 [![Telegram](https://img.shields.io/badge/Telegram-@bcolina17-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/bcolina17)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@brayan-colina-b64b19158?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](www.linkedin.com/in/brayan-colina-b64b19158) -->
-[![Email](https://img.shields.io/badge/bcolina88@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:bcolina88@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@brayan-colina-b64b19158?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/brayan-colina-b64b19158) -->
+[![Email](https://img.shields.io/badge/Email-bcolina88@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:bcolina88@gmail.com)
 
 
 ---

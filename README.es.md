@@ -11,7 +11,7 @@
 
 Soy licenciado en Computación🎓, programador 👨‍💻, y me apasiona el desarrollo web. Siempre en busqueda de aprender cosas nuevas para ampliar y desarrollar mis habilidades📚.
 
-🌿 Cada día es una oportunidad para mejorar.
+✍️ Cada día es una oportunidad para mejorar.
 </br>
 🚀 Busco colaborar en proyectos de código abierto o aprender cosas nuevas.
 </br>
@@ -68,7 +68,7 @@ Soy licenciado en Computación🎓, programador 👨‍💻, y me apasiona el de
 [![Website](https://img.shields.io/badge/Website-bcsoftw-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://bcsoftw.github.io/)
 [![Telegram](https://img.shields.io/badge/Telegram-@bcolina17-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/bcolina17)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@brayan-colina-b64b19158?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](www.linkedin.com/in/brayan-colina-b64b19158) -->
-[![Email](https://img.shields.io/badge/bcolina88@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:bcolina88@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bcolina88@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:bcolina88@gmail.com)
 
 ---
 
