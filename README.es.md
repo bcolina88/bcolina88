@@ -26,7 +26,7 @@ Soy licenciado en Computación🎓, programador 👨‍💻, y me apasiona el de
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### Documentación de API y herramientas de diseño para equipos
+### Herramientas para el diseño y documentación API
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
 ![Graphql](https://img.shields.io/badge/Graphql-E10098?style=flat&logo=graphql&logoColor=white)
@@ -67,7 +67,7 @@ Soy licenciado en Computación🎓, programador 👨‍💻, y me apasiona el de
 
 [![Website](https://img.shields.io/badge/Website-bcsoftw-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://bcsoftw.github.io/)
 [![Telegram](https://img.shields.io/badge/Telegram-@bcolina17-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/bcolina17)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@brayan-colina-b64b19158?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](www.linkedin.com/in/brayan-colina-b64b19158) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@brayan-colina-b64b19158?style=for-the-badge&logoColor=white&labelColor=101010)](www.linkedin.com/in/brayan-colina-b64b19158) -->
 [![Email](https://img.shields.io/badge/Email-bcolina88@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:bcolina88@gmail.com)
 
 ---

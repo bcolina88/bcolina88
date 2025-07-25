@@ -27,7 +27,7 @@ I have a degree in Computer Science🎓, a programmer 👨‍💻, and I'm passi
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### API Documentation & Design Tools for Teams
+### Tools for API design and Documentation
 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
