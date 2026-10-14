@@ -20,38 +20,57 @@ Soy licenciado en Computación🎓, programador 👨‍💻, y me apasiona el de
 
 ## Tecnologías y Herramientas 🛠️
 
-### Frameworks
+<div align="center">
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### Herramientas para el diseño y documentación API
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
-![Graphql](https://img.shields.io/badge/Graphql-E10098?style=flat&logo=graphql&logoColor=white)
+<table border="1" cellpadding="14" bgcolor="#17171c">
+  
+  <tbody>
+    <tr>
+      <td valign="top"><code>Frameworks:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,vue,nestjs,typescript,laravel" alt="Node.js, JavaScript, Vuejs, Nestjs, TypeScript, Laravel"><br>
+        <sub><code>Node.js · JavaScript · Vuejs · Nestjs · TypeScript · Laravel</code></sub>
+      </td>
+      <!-- <td width="50%" valign="top"><code>├─ ▣ databases_messaging:</code><br><br> -->
+      <td width="50%" valign="top"><code>Databases:</code><br><br>
+        <!-- <img src="assets/icon-amazon-rds.svg" height="48" alt="Amazon RDS"> -->
+        <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" alt="Sqlite, MySQL, PostgreSQL y MongoDB"><br>
+        <sub><code> Sqlite · MySQL · PostgreSQL · MongoDB</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>DevOps & Herramientas:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,github,githubactions,gitlab,bitbucket,bash" alt="Docker,GitHub, GitHub Actions, GitLab CI, Bitbucket y Bash"><br>
+        <sub><code>Docker · GitHub · GitHub Actions · GitLab CI · Bitbucket · Bash</code></sub>
+      </td>
+      <td valign="top"><code>Herramientas para el diseño y documentación API:</code><br><br>
+        <img src="https://scramble.dedoc.co/favicon/apple-touch-icon.png" height="48" alt="Scramble">
+        <img src="https://cdn.simpleicons.org/swagger?viewbox=auto" height="48" alt="Swagger">
+        <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQl"><br>
+        <sub><code>Scramble · Swagger · GraphQl </code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>Frontend</code><br><br>
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" alt="HTML, CSS, Bootstrap y Tailwind"><br>
+        <sub><code>HTML · CSS · Bootstrap · Tailwind</code></sub>
+      </td>
+      <td valign="top"><code>Otros:</code><br><br>
+        <img src="https://cdn.simpleicons.org/trello?viewbox=auto" height="48" alt="Trello">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/slack.svg" height="48" alt="Slack">
+        <img src="https://cdn.simpleicons.org/jira?viewbox=auto" height="48" alt="Jira">
+        <img src="https://images.seeklogo.com/logo-png/42/2/scrum-logo-png_seeklogo-428358.png" height="48" alt="Scrum"><br>
+        <sub><code>Trello · Slack · Jira · Scrum</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  
+</table>
 
-### Frontend
+</div>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-### DevOps & Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-
-### Otros
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrum&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-007ACC?style=flat&logo=design&logoColor=white)
-
-<!-- ## Proyectos Destacados 💻
+<!--
 
 <div align="center">
 
@@ -65,10 +84,28 @@ Soy licenciado en Computación🎓, programador 👨‍💻, y me apasiona el de
 
 ## 🌐 Conéctate conmigo
 
-[![Website](https://img.shields.io/badge/Website-bcsoftw-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://bcsoftw.github.io/)
-[![Telegram](https://img.shields.io/badge/Telegram-@bcolina17-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/bcolina17)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@brayan-colina-b64b19158?style=for-the-badge&logoColor=white&labelColor=101010)](www.linkedin.com/in/brayan-colina-b64b19158) -->
-[![Email](https://img.shields.io/badge/Email-bcolina88@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:bcolina88@gmail.com)
+<div align="center">
+
+<a href="https://www.instagram.com/bcsoftw">
+  <img src="https://img.shields.io/badge/Instagram-f78ca0?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
+</a>&nbsp;&nbsp;
+<a href="https://bcsoftw.github.io">
+  <img src="https://img.shields.io/badge/Website-bcsoftw-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Website">
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bcolina17/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="mailto:bcolina88@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bcolina88@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email">
+</a>&nbsp;&nbsp;
+<a href="https://t.me/bcolina17">
+  <img src="https://img.shields.io/badge/Telegram-@bcolina17-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010" alt="Telegram">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/bcolina88">
+  <img src="https://img.shields.io/badge/GitHub-f78ca?style=for-the-badge&logo=github&logoColor=1a1a221" alt="GitHub">
+</a>
+
+</div>
 
 ---
 
