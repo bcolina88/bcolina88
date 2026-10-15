@@ -92,7 +92,7 @@ Soy licenciado en Computación🎓, programador 👨‍💻, y me apasiona el de
 <a href="https://bcsoftw.github.io">
   <img src="https://img.shields.io/badge/Website-bcsoftw-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Website">
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bcolina17/">
+<a href="https://www.linkedin.com/in/bcolina88/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
 <a href="mailto:bcolina88@gmail.com">
