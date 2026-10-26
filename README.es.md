@@ -58,9 +58,8 @@ Soy licenciado en Computación🎓, programador 👨‍💻, y me apasiona el de
       <td valign="top"><code>Otros:</code><br><br>
         <img src="https://cdn.simpleicons.org/trello?viewbox=auto" height="48" alt="Trello">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/slack.svg" height="48" alt="Slack">
-        <img src="https://cdn.simpleicons.org/jira?viewbox=auto" height="48" alt="Jira">
-        <img src="https://images.seeklogo.com/logo-png/42/2/scrum-logo-png_seeklogo-428358.png" height="48" alt="Scrum"><br>
-        <sub><code>Trello · Slack · Jira · Scrum</code></sub>
+        <img src="https://cdn.simpleicons.org/jira?viewbox=auto" height="48" alt="Jira"><br>
+        <sub><code>Trello · Slack · Jira</code></sub>
       </td>
     </tr>
   </tbody>
